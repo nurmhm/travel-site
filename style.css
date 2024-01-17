@@ -280,7 +280,7 @@ body{
     background: rgba(251, 181, 99, 0.05);
 
 }
-.box-2{
+.box-container-div>.box-2{
     border-radius: 16px;
     border: 1px solid rgba(41, 206, 246, 0.20);
     background: rgba(41, 206, 246, 0.05);
