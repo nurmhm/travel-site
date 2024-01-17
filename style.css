@@ -274,10 +274,22 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-.box-container-div>.box ,.out-box{
+.box-container-div>.box {
     border-radius: 16px;
     border: 1px solid rgba(251, 181, 99, 0.20);
     background: rgba(251, 181, 99, 0.05);
+
+}
+.box-2{
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+}
+.out-box{
+    border-radius: 16px;
+    border: 1px solid rgba(228, 6, 6, 0.2);
+    background: rgba(233, 68, 68, 0.05)
+   
 }
 
 
